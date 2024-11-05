@@ -1,6 +1,6 @@
 # AWS SES Email Sender
 
-A Python implementation for sending emails using Amazon Simple Email Service (AWS SES). The main purpose of this python code is to send put mass marketing html emails using AWS SES service.
+A Python implementation for sending emails using Amazon Simple Email Service (AWS SES). The main purpose of this python code is to send out mass marketing html emails using AWS SES service.
 
 ## Prerequisites
 
