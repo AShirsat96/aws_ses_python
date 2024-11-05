@@ -86,9 +86,4 @@ The implementation includes error handling using try-except blocks:
 - boto3
 - botocore.exceptions (ClientError, WaiterError)
 - logging
-- License
-- Contributing guidelines
-- Additional documentation
-- Security considerations
-- Support contact
 
